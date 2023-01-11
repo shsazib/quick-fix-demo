@@ -383,4 +383,7 @@ img {
   .product_left_content {
     margin-top: 50px;
   }
+  .product_right_content p{
+	font-size: 16px;
+  }
 }
